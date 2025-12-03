@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu GitHub
 
-<!--
-**danilo-cavalheiro/danilo-cavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mim
+Sou um profissional focado em **Contabilidade**, **Análise de Dados**, **Data Science**, **Automação Contábil** e **Inteligência Artificial Aplicada**.  
+Aqui você vai encontrar projetos que unem tecnologia, dados e processos contábeis para gerar **eficiência**, **insights** e **decisões melhores**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Áreas de Atuação
+- 📐 **Controladoria**
+- 📊 **Análise de Dados**
+- 📈 **Data Science e Modelagem Estatística**
+- 🤖 **Machine Learning e IA aplicada a negócios**
+- 🗄️ **Consultas, manipulação e engenharia de dados com SQL**
+- 🧩 **Linguagens M e DAX para Power BI**
+
+---
+
+## 🔧 Tecnologias e Ferramentas
+**Linguagens:**  
+- Python  
+- SQL  
+- M (Power Query)  
+- DAX  
+
+**Ferramentas:**  
+- Power BI  
+- Jupyter Notebook  
+- VS Code  
+- Excel Avançado  
+- APIs, ETL e Web Scraping  
+
+---
+
+## 🌱 O que estou aprendendo atualmente
+- Técnicas avançadas de Machine Learning  
+- IA aplicada a processos contábeis  
+- Pipelines de dados mais robustos  
+- Boas práticas de engenharia de dados  
+
+---
+
+## 📫 Contato
+- LinkedIn: Danilo Cavalheiro
+- E-mail: danilocavlemes@gmail.com
+
+---
+
+✨ *Obrigado por visitar meu perfil!
