@@ -1,18 +1,18 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub
+# Olá! Seja bem-vindo ao meu GitHub
 
-## 📌 Sobre mim
+## Sobre mim
 Sou um profissional focado em **Contabilidade**, **Análise de Dados**, **Data Science**, **Automação Contábil** e **Inteligência Artificial Aplicada**.  
 Aqui você vai encontrar projetos que unem tecnologia, dados e processos contábeis para gerar **eficiência**, **insights** e **decisões melhores**.
 
 ---
 
-## 🚀 Áreas de Atuação
-- 📐 **Controladoria**
-- 📊 **Análise de Dados**
-- 📈 **Data Science e Modelagem Estatística**
-- 🤖 **Machine Learning e IA aplicada a negócios**
-- 🗄️ **Consultas, manipulação e engenharia de dados com SQL**
-- 🧩 **Linguagens M e DAX para Power BI**
+## Áreas de Atuação
+- **Controladoria**
+- **Análise de Dados**
+- **Data Science e Modelagem Estatística**
+- **Machine Learning e IA aplicada a negócios**
+- **Consultas, manipulação e engenharia de dados com SQL**
+- **Linguagens M e DAX para Power BI**
 
 ---
 
@@ -32,7 +32,7 @@ Aqui você vai encontrar projetos que unem tecnologia, dados e processos contáb
 
 ---
 
-## 🌱 O que estou aprendendo atualmente
+## O que estou aprendendo atualmente
 - Técnicas avançadas de Machine Learning  
 - IA aplicada a processos contábeis  
 - Pipelines de dados mais robustos  
@@ -40,10 +40,10 @@ Aqui você vai encontrar projetos que unem tecnologia, dados e processos contáb
 
 ---
 
-## 📫 Contato
+## Contato
 - LinkedIn: Danilo Cavalheiro
 - E-mail: danilocavlemes@gmail.com
 
 ---
 
-✨ *Obrigado por visitar meu perfil!
+*Obrigado por visitar meu perfil!
