@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo ao meu GitHub
+# Olá! Bem-vindo(a) ao meu GitHub
 
 ## Sobre mim
 Sou um profissional focado em **Contabilidade**, **Análise de Dados**, **Data Science**, **Automação Contábil** e **Inteligência Artificial Aplicada**.  
@@ -16,7 +16,7 @@ Aqui você vai encontrar projetos que unem tecnologia, dados e processos contáb
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 **Linguagens:**  
 - Python  
 - SQL  
