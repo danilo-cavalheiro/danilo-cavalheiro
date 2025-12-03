@@ -1,49 +1,32 @@
-# Olá! Bem-vindo(a) ao meu GitHub
+# Olá! Eu me chamo Danilo Cavalheiro.
 
 ## Sobre mim
-Sou um profissional focado em **Contabilidade**, **Análise de Dados**, **Data Science**, **Automação Contábil** e **Inteligência Artificial Aplicada**.  
-Aqui você vai encontrar projetos que unem tecnologia, dados e processos contábeis para gerar **eficiência**, **insights** e **decisões melhores**.
+
+- Hoje eu trabalho no meio **contábil-rural**
+- Estudando: **Análise de Dados**
+- Interesses:  **Python, SQL, Power BI, IA**
 
 ---
 
-## Áreas de Atuação
-- **Controladoria**
-- **Análise de Dados**
-- **Data Science e Modelagem Estatística**
-- **Machine Learning e IA aplicada a negócios**
-- **Consultas, manipulação e engenharia de dados com SQL**
-- **Linguagens M e DAX para Power BI**
+<div style="font-family: Arial, sans-serif; line-height:1.5;">
 
----
+  <h2>Linguagens & Ferramentas</h2>
+  <ul>
+    <li><strong>Python</strong> – automações, análise, ETL e IA</li>
+    <li><strong>SQL</strong> – consultas, modelagem e manipulação de dados</li>
+    <li><strong>M (Power Query)</strong> – ETL e transformação de dados no Power BI</li>
+    <li><strong>DAX</strong> – medidas, KPIs e modelagem analítica no Power BI</li>
+    <li><strong>Power BI</strong> – dashboards, relatórios e modelagem de dados</li>
+  </ul>
 
-## Tecnologias e Ferramentas
-**Linguagens:**  
-- Python  
-- SQL  
-- M (Power Query)  
-- DAX  
+  <h2>Áreas de Conhecimento</h2>
+  <ul>
+    <li><strong>Análise de Dados</strong></li>
+    <li><strong>Data Science</strong></li>
+    <li><strong>Automação Contábil e Fiscal</strong></li>
+    <li><strong>Machine Learning</strong></li>
+    <li><strong>Inteligência Artificial Aplicada</strong></li>
+    <li><strong>ETL e Processamento de Dados</strong></li>
+  </ul>
 
-**Ferramentas:**  
-- Power BI  
-- Jupyter Notebook  
-- VS Code  
-- Excel Avançado  
-- APIs, ETL e Web Scraping  
-
----
-
-## O que estou aprendendo atualmente
-- Técnicas avançadas de Machine Learning  
-- IA aplicada a processos contábeis  
-- Pipelines de dados mais robustos  
-- Boas práticas de engenharia de dados  
-
----
-
-## Contato
-- LinkedIn: Danilo Cavalheiro
-- E-mail: danilocavlemes@gmail.com
-
----
-
-*Obrigado por visitar meu perfil!
+</div>
